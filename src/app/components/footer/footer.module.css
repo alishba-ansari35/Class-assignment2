@@ -1,0 +1,16 @@
+.footer{
+    background-color:  rgb(13, 13, 77);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.footer h1{
+    margin: 0;
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    background-color:  rgb(13, 13, 77);
+}
+.heading{
+    font-size: 20px;
+    color: white;
+    margin: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+}
+.list li{
+    margin-left: 20px;
+}
+.link{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease ;
+}
+.link:hover{
+ color:rgb(102, 194, 247);
+}

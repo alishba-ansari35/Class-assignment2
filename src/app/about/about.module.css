@@ -1,0 +1,35 @@
+.div{
+    background-image: url('https://img.freepik.com/premium-photo/blue-floral-background-with-white-flowers-it_901383-46299.jpg?semt=ais_hybrid');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    text-align: center;
+    color: black;
+}
+.heading{
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(13, 13, 77);
+    text-decoration: underline;
+}
+.paragraph{
+    font-size:19px ;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraph{
+    font-size: 19px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    color:rgb(6, 6, 46);
+    
+}
